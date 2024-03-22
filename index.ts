@@ -8,7 +8,7 @@ message:`${chalk.red(`Hamza Sir`)} if you want to ${chalk.green ("win the Game")
  Number Between ${chalk.red ("1 and 6  🤔🤔🤔")} Han Soch looo `,
 }]);
 if ( answer.myChoise ===computerNumber){
-    console.log(`you ${chalk.blue.bold("win the game") }😭😭😭😭, because you Guess  ${chalk.red(`${answer.myChoise}`)}   and Computer Number is ${chalk.red(`${computerNumber}`)}`)
+    console.log(`you ${chalk.blue.bold("win the game") }😤😎😤😎, because you Guess  ${chalk.red(`${answer.myChoise}`)}   and Computer Number is ${chalk.red(`${computerNumber}`)}`)
 
 
 }
