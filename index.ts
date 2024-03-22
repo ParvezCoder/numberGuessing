@@ -18,7 +18,7 @@ let answer = await inquirer.prompt([{
     choices:['add','sub','mul','div']
 }
 ]);
-
+console.log("k")
 if("add" ===answer.Operator){
     console.log(answer.firstNumber+answer.secondNumber)
 }
